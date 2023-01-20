@@ -1,2 +1,0 @@
-# gcpzoomcamp
-GcpZoomCamp assignments
